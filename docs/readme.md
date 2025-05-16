@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este projeto foi inspirado em uma funcionalidade que poderia ser integrada ao SIGAA, oferecendo a professores e gestores educacionais uma forma prática de gerar relatórios automatizados de desempenho acadêmico. A proposta é transformar os dados dos estudantes em uma planilha estruturada, pronta para ser analisada em ferramentas como Excel, Power BI ou Google Sheets.
+Este projeto foi inspirado em uma funcionalidade que poderia ser integrada ao SIGAA, oferecendo a professores e alunos uma forma prática de gerar relatórios automatizados de desempenho acadêmico. A proposta é transformar os dados dos estudantes em uma planilha estruturada, pronta para ser analisada em ferramentas como Excel, Power BI ou Google Sheets.
 
 O desenvolvimento seguiu os princípios do TDD (Test-Driven Development), dentro da abordagem de XP (Extreme Programming), com foco em escrever testes antes do código, garantir qualidade desde o início e manter o código limpo e sustentável.
 
