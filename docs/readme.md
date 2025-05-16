@@ -49,7 +49,7 @@ pip install -r requirements.txt
 python  xp_example/relatorio.py
 ```
 
-A planilha `relatorio.xlsx` será gerada na raiz do projeto.
+A planilha `relatorio.xlsx` será gerada na raiz do projeto. Foi deixado uma planilha de exemplo no repositório.
 
 ---
 
